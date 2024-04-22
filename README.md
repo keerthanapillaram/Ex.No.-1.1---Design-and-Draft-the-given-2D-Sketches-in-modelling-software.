@@ -1,8 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## Name : P.KEERTHANA
-## REG.NO : 212223240069
-
+## Reg.No : 212223240069
 
 ## AIM
 
